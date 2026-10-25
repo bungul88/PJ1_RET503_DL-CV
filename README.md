@@ -6,7 +6,7 @@ Notebook [PJ1_Plant_Detection_Kaggle.ipynb](PJ1_Plant_Detection_Kaggle.ipynb) me
 
 ## Kesesuaian proyek
 
-Dataset berisi citra tanaman dari UAV dan tiga kelas: `maize`, `sugarbeet`, serta `sunflower`. Karena itu dataset lebih dekat dengan tujuan drone agrikultur dibanding dataset pisang sebelumnya. Dataset ini dapat dipakai untuk latihan deteksi dan penghitungan tanaman dari udara.
+Dataset berisi citra tanaman dari UAV dan tiga kelas: `maize`, `sugarbeet`, serta `sunflower`. Karena itu dataset lebih dekat dengan tujuan drone agrikultur dibanding dataset tomat sebelumnya. Dataset ini dapat dipakai untuk latihan deteksi dan penghitungan tanaman dari udara.
 
 Dataset belum memiliki label kondisi tanaman atau keputusan `semprot`/`tidak semprot`. Hasil model dari notebook ini hanya mengukur deteksi jenis tanaman, bukan kemampuan sprayer mengambil keputusan. Data penerbangan drone proyek sendiri tetap dibutuhkan untuk validasi lapangan dan pengembangan keputusan penyemprotan.
 
